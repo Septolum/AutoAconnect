@@ -2,4 +2,4 @@ command line to use for fluidsynth
 fluidsynth -a pulseaudio -o synth.midi-bank-select=xg " - Soundfont Path - " " - Intro Midi - "
 
 eg
-fluidsynth -a pulseaudio -o synth.midi-bank-select=xg "/usr/share/sounds/sf2/GeneralUser GS 1.47/GeneralUser GS v1.47.sf2" "/usr/share/sounds/sf2/GeneralUser GS 1.47/demo MIDIs/To Make the End of Battle.mid"
+fluidsynth -a pulseaudio -o synth.midi-bank-select=mma "/usr/share/sounds/sf2/GeneralUser GS 1.47/GeneralUser GS v1.47.sf2" "/usr/share/sounds/sf2/GeneralUser GS 1.47/demo MIDIs/To Make the End of Battle.mid"
