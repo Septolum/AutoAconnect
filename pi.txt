@@ -1,0 +1,1 @@
+sudo fluidsynth -a alsa -o synth.midi-bank-select=mma GeneralUser\ GS\ 1.47/GeneralUser\ GS\ v1.47.sf2   -z 16 -c 4
